@@ -1,0 +1,3 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/Ai-Sasit/Question-Quiz-Game-FE.git
