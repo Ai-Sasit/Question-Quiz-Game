@@ -1,7 +1,7 @@
 # Question-Quiz-Game
 Web Development | Mini Project
 
--- git clone --recurse-submodules -j8 https://github.com/Ai-Sasit/Question-Quiz-Game.git
+- git clone --recurse-submodules -j8 https://github.com/Ai-Sasit/Question-Quiz-Game.git
 
 - Member Group 9
   - 62114440215	นายปราชญอนันต์ ศรีสันติแสง
